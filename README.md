@@ -15,6 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+File Structure:
+lib - Contains all the flutter(dart) files
+main.dart - Run the application with this file
+pages - Dart file with individual app page files
+
 For Running this project:
 1. In Android Studio or VSCode open pubspec.yaml file.
 2. Just press Clt+S to Save and all the dependencies will be installed.
