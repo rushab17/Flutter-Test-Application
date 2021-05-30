@@ -1,6 +1,6 @@
-# liveasy
+# Flutter Test App
 
-A new Flutter project.
+A basic Flutter project demonstrating Phone Authentication using Firebase.
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+For Running this project:
+1. In Android Studio or VSCode open pubspec.yaml file.
+2. Just press Clt+S to Save and all the dependencies will be installed.
+3. Run Flutter app in debug mode using the below command in root folder of the project: 
+4. flutter run
+5. Create Apk using the below command in root folder
+6. flutter build
